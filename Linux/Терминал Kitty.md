@@ -1,3 +1,16 @@
+
+### Установить 7zip
+
+Debian/Ubuntu:
+```bash
+sudo apt update && sudo apt install kitty
+```
+Arch:
+```bash
+sudo pacman -S kitty
+```
+
+
 # Kitty Terminal Emulator Main Shortcuts
 
 ## Tab Management

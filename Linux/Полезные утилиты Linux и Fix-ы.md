@@ -5,7 +5,7 @@ Debian/Ubuntu установка сложнее, что-то есть тольк
 
 Arch:
 ```bash
-sudo pacman -S lsd bat mc git lazygit kitty zellij yazi fastfetch zoxide fzf fd ripgre vim nsuperfileeovim 
+sudo pacman -S stow bat mc git lazygit kitty zellij yazi fastfetch vim neovim mpv fish zsh vlc rhythmbox gedit evince baobab snapshot loupe 7zip ffmpeg
 ```
 
 ### Медиа, преимещественно для GTK:

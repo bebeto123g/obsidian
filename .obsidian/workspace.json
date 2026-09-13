@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4d0861807a49b783",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TODO/Main TODO.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Main TODO"
-            }
-          },
-          {
-            "id": "a13cc7ac1fc42d0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Терминал Kitty.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Терминал Kitty"
-            }
-          },
-          {
             "id": "a593420afeb66ff2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Команды в терминале Linux.md",
+                "file": "Бобро обжаловать.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Команды в терминале Linux"
+              "title": "Бобро обжаловать"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -191,7 +164,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Бобро обжаловать"
+              "title": "Outline"
             }
           }
         ],
@@ -199,8 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,30 +187,36 @@
   },
   "active": "a593420afeb66ff2",
   "lastOpenFiles": [
-    "Linux/Терминал Kitty.md",
-    "Linux/Команды в терминале Linux.md",
-    "Linux/Настройка SSH в Linux.md",
     "TODO/Main TODO.md",
-    "Бобро обжаловать.md",
     "Linux/Черный экран Steam в Niri.md",
-    "Untitled 1.canvas",
-    "Untitled 1.base",
+    "Linux/Neovim.md",
+    "Linux/Архивы .7z в Linux.md",
+    "Бобро обжаловать.md",
+    "2026-09-10.md",
     "Untitled.canvas",
     "Untitled.base",
-    "2026-06-16.md",
-    "Learn/Рассуждения по дистрибутивам.md",
-    "Linux/Архивы .7z в Linux.md",
-    "Linux/Obsidian в Linux.md",
-    "Linux/LazyVim в Linux.md",
+    "Untitled 3.base",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "Linux/CLI Olama LLM.md",
+    "Linux/Datashit Helix.md",
     "Linux/Lazygit в Linux.md",
-    "Linux/Dotfiles в CashyOS + Niri.md",
-    "Linux/Редакторы видео в Linux.md",
-    "Linux/Подключение Snap в Linux.md",
-    "Linux/Подключение Flatpak в Linux.md",
-    "TODO",
+    "Learn/Рассуждения по дистрибутивам.md",
     "Learn/Освоение VIM..md",
-    "Linux/Полезные утилиты Linux и Fix-ы.md",
+    "Linux/Dotfiles в CashyOS + Niri.md",
+    "Linux/LazyVim в Linux.md",
+    "Linux/Obsidian в Linux.md",
     "Linux/Восстановить удаленные файлы.md",
+    "Linux/Команды в терминале Linux.md",
+    "Linux/Подключение Snap в Linux.md",
+    "Linux/Полезные утилиты Linux и Fix-ы.md",
+    "Linux/Редакторы видео в Linux.md",
+    "Linux/Терминал Kitty.md",
+    "Linux/Подключение Flatpak в Linux.md",
+    "Linux/Настройка SSH в Linux.md",
+    "Untitled 1.canvas",
+    "2026-06-16.md",
+    "TODO",
     "Learn",
     "Настройка.md",
     "Linux",

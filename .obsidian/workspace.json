@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Черный экран Steam в Niri.md",
-                "mode": "source",
+                "file": "Бобро обжаловать.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Черный экран Steam в Niri"
+              "title": "Бобро обжаловать"
             }
           }
         ]
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Черный экран Steam в Niri.md",
+                "file": "Linux/VirtualBox on Arch.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -172,7 +172,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,13 +188,15 @@
   },
   "active": "2ad7c3f27097ad37",
   "lastOpenFiles": [
+    "TODO/Main TODO.md",
+    "Linux/VirtualBox on Arch.md",
+    "Linux/LazyVim в Linux.md",
+    "Linux/Черный экран Steam в Niri.md",
     "Linux/Терминал Kitty.md",
     "Бобро обжаловать.md",
-    "TODO/Main TODO.md",
     "Linux/Datashit Helix.md",
     "Linux/Конвертирование изображений imagemagic.md",
     "Linux/Полезные утилиты Linux и Fix-ы.md",
-    "Linux/Черный экран Steam в Niri.md",
     "Linux/Neovim.md",
     "Linux/Архивы .7z в Linux.md",
     "2026-09-10.md",
@@ -207,7 +210,6 @@
     "Learn/Рассуждения по дистрибутивам.md",
     "Learn/Освоение VIM..md",
     "Linux/Dotfiles в CashyOS + Niri.md",
-    "Linux/LazyVim в Linux.md",
     "Linux/Obsidian в Linux.md",
     "Linux/Восстановить удаленные файлы.md",
     "Linux/Команды в терминале Linux.md",
@@ -220,7 +222,6 @@
     "TODO",
     "Learn",
     "Настройка.md",
-    "Linux",
-    "создайте ссылку.md"
+    "Linux"
   ]
 }

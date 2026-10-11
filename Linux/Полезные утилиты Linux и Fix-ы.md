@@ -24,6 +24,20 @@ sudo pacman -S vlc smplayer smplayer-skins smplayer-themes rhythmbox
 
 ```bash
 sudo sysctl -w kernel.apparmor_restrict_unprivileged_userns=0
-
+```
+```bash
 rm ~/.cache/thumble
 ```
+
+### Гайд по настройке терминала + полезный программы
+
+[Как сделать терминал в Linux красивым, быстрым и удобным](https://www.youtube.com/watch?v=UzWOX7-Tye8)
+
+### Гайд по tmux
+
+[tmux — Как Стать Терминальным Чадом](https://www.youtube.com/watch?v=GnP_SsMPNro)
+
+### Гайд по zellij
+
+[Обзор на zellij: Убийца tmux?](https://www.youtube.com/watch?v=OnmaBi9TjIk)
+

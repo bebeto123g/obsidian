@@ -32,7 +32,7 @@ ssh-add ~/.ssh/id_ed25519
 ##### 6. Скопируйте открытый ключ SSH в буфер обмена.
 
 ```bash
-$ cat ~/.ssh/id_ed25519.pub
+cat ~/.ssh/id_ed25519.pub
 ```
 
 ##### 7. Добавить ключ SSH в конфигурациях github|gitlab.

@@ -5,7 +5,7 @@ sudo pacman -S git
 
 ##### 2. Настраиваем глобальный конфиг:
 ```bash
-git config --global user.name "bebeto123@arch16"
+git config --global user.name "bebeto123@hostname"
 ```
 ```bash
 git config --global user.email "bebeto123g@gmail.com"

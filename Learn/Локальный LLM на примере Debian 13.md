@@ -1,6 +1,6 @@
 ## 1. Установка NodeJS
 
-Используем [[Установка NodeJS LTS Debain]]
+Используем [[NodeJS LTS for Debain]]
 
 ## 2. Установка Ollama
 

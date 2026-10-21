@@ -1,5 +1,5 @@
 
-### 1. Debian
+### Install
 
 ```bash
 sudo apt update && sudo apt upgrade -y
@@ -21,13 +21,4 @@ sudo apt install plasma-discover-backend-flatpak
 Flathub is the best place to get Flatpak apps:
 ```bash
 flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
-```
-
-### 2. Arch
-
-```bash
-sudo pacman -S flatpak
-```
-```bash
-flatpak remote-add --if-not-exists --user flathub https://dl.flathub.org/repo/flathub.flatpakrepo
 ```

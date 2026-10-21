@@ -12,7 +12,4 @@ Arch:
 sudo pacman -S lazygit
 ```
 
-###### Документация:
-```
-https://github.com/jesseduffield/lazygit
-```
+###### [Документация](https://github.com/jesseduffield/lazygit)

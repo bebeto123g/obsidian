@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Neovim.md",
+                "file": "TODO/Освоение VIM..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Neovim"
+              "title": "Освоение VIM."
             }
           },
           {
@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arch/Flatpak for Arch.md",
+                "file": "Linux/Telegram из исходников.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flatpak for Arch"
+              "title": "Telegram из исходников"
             }
           },
           {
@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -231,18 +231,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "02962f4cf762aae6",
+  "active": "50111007add8477c",
   "lastOpenFiles": [
+    "Debian/SUDO for Debian.md",
+    "Linux/Neovim.md",
+    "Linux/Telegram из исходников.md",
+    "Linux/Терминал Kitty.md",
+    "Linux/Полезные утилиты Linux и Fix-ы.md",
+    "Бобро дожаловать!.md",
+    "Linux/Niri DMS Quick Installation.md",
+    "Arch/Flatpak for Arch.md",
     "TODO/Освоение VIM..md",
     "TODO/Main TODO.md",
     "Linux/Установка Cisco Any Connect.md",
     "Arch/Черный экран Steam в Arch Niri.md",
     "Debian/NodeJS LTS for Debain.md",
-    "Linux/Терминал Kitty.md",
     "Linux/Редакторы видео в Linux.md",
     "Debian/Snap for Debian.md",
     "Arch/Snap for Arch.md",
-    "Arch/Flatpak for Arch.md",
     "Debian/Flatpak for Debian.md",
     "Linux/Настройка шрифтов.md",
     "Linux/Настройка SSH в Linux.md",
@@ -251,14 +257,8 @@
     "Linux/Доступ к ФС на внешнем жестком диске.md",
     "Linux/Восстановить удаленные файлы.md",
     "Linux/Архивы .7z в Linux.md",
-    "Linux/Telegram из исходников.md",
     "Arch/VirtualBox on Arch.md",
     "Linux/Obsidian в Linux.md",
-    "Linux/Neovim.md",
-    "Linux/Lazygit в Linux.md",
-    "Linux/Datashit Helix.md",
-    "Arch/Dotfiles for Arch.md",
-    "Debian/Dotfiles for Debian.md",
     "Arch",
     "Debian",
     "Untitled.canvas",
@@ -268,7 +268,7 @@
     "Untitled 1.base",
     "Untitled 1.canvas",
     "TODO",
-    "Learn",
+    "Learn LLM",
     "Linux"
   ]
 }
